@@ -1,12 +1,12 @@
 {
-  "version": "4.19.1",
+  "version": "4.21.0",
   "description": "Move Mouse is a simple piece of software that is designed to simulate user activity.",
   "homepage": "https://github.com/sw3103/movemouse",
   "license": "GPL",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/sw3103/movemouse/releases/download/v4.19.1/movemouse-4.19.1.zip",
-      "hash": "933e3f1520955182ffce9052c64a5407718b78368ceb60cfb72d69e3db3a5262"
+      "url": "https://github.com/sw3103/movemouse/releases/download/v4.21.0/movemouse-4.21.0.zip",
+      "hash": "750387f5aa0c578123d1924afeaf75c5e152c03988490c1f8d8d974cb8c6ff79"
     }
   },
   "bin": "Move Mouse.exe",
